@@ -1939,6 +1939,14 @@
         "listed": true,
         "version": "1.0.0"
     },
+    "VYaml": {
+        "listed": true,
+        "version": "1.1.0"
+    },
+    "VYaml.Annotations": {
+        "listed": true,
+        "version": "1.1.0"
+    },
     "WebDav.Client": {
         "listed": true,
         "version": "2.3.0"
